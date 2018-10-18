@@ -100,7 +100,8 @@ venv.bak/
 # mkdocs documentation
 /site
 
-.vscode /
+.vscode/
+.idea/
 
 
 # mypy
